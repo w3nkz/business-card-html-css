@@ -1,0 +1,26 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+}
+
+.card{
+    background:#ddebf8;
+    color:#2b2839;
+    width: 420px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+.border{
+    border-bottom: 6px solid #d8cefe;
+}
+.italic{
+    font-style: italic;
+}
+.profilePicture{
+    width: 150px;
+    margin-top: 20px;
+    
+}
